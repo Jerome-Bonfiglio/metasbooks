@@ -1,0 +1,5 @@
+[2024-03-03 08:47:11] Le fichier de stock n'a pas été trouvé &#10060;
+[2024-03-03 08:47:41] Le fichier de stock n'a pas été trouvé &#10060;
+[2024-03-03 08:48:08] Votre fichier semble être mal formaté &#10060;
+[2024-03-03 08:56:03] Votre fichier est correctement formaté &check;
+[2024-03-03 09:00:01] Votre fichier est correctement formaté &check;
